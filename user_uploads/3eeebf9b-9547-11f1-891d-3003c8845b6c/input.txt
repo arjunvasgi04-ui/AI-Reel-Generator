@@ -1,0 +1,12 @@
+file 'WIN_20231119_10_23_29_Pro.jpg'
+duration 1
+file 'WIN_20231119_10_23_53_Pro.jpg'
+duration 1
+file 'WIN_20251205_09_38_57_Pro.jpg'
+duration 1
+file 'WIN_20251205_09_38_52_Pro.jpg'
+duration 1
+file 'WIN_20251205_09_39_00_Pro.jpg'
+duration 1
+file 'WIN_20260313_10_11_08_Pro.jpg'
+duration 1

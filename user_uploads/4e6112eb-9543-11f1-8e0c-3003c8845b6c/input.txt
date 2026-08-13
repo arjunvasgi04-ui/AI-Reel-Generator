@@ -1,0 +1,6 @@
+file 'bhumi1.jpeg'
+duration 1
+file 'bhumi2.jpeg'
+duration 1
+file 'bhumi3.jpeg'
+duration 1
